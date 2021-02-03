@@ -78,4 +78,6 @@ require('./util/array');
 
 require('./rendering');
 
+require('./threading');
+
 require('./features');
